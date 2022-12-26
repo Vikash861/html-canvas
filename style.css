@@ -1,0 +1,22 @@
+*{
+  padding:0;
+  margin:0;
+}
+body {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+canvas{
+  border:2px solid black;
+/*   background-color:red; */
+}
+
+.speedBtn{
+  position:absolute;
+  top:0;
+  left:0;
+  width:cover;
+  height:cover;

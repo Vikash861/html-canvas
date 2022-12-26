@@ -1,0 +1,7 @@
+what we can draw on canvas ?
+1. Rectangle
+2. Lines
+3. Bazier Curves
+4. Arc / Circle
+5. Images
+6. Text
