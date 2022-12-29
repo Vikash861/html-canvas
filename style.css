@@ -20,3 +20,12 @@ canvas{
   left:0;
   width:cover;
   height:cover;
+
+}
+
+.colHeading{
+  position:absolute;
+  top:10;
+  left:10;
+  
+}
